@@ -1,0 +1,7 @@
+D:\Git Bash\test\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+D:\Git Bash\test\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+D:\Git Bash\test\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+D:\Git Bash\test\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojAssemblyReference.cache
+D:\Git Bash\test\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+D:\Git Bash\test\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+D:\Git Bash\test\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
